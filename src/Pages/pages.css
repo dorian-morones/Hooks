@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto+Condensed&display=swap');
+
+.Container{
+    display: flex;
+    margin: 0 auto;
+    width: 90vw;
+}
+.row{
+    flex-grow: 1;
+    max-width: 100%;
+    padding: 10px;
+}
+
+h1{
+    border-bottom: solid 2px #000;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h2{
+    font-family: 'Lato', sans-serif;
+}
