@@ -7,7 +7,7 @@ export default function HookCounter(){
     return (
         <div>
             <button className="btn" onClick={() => setCounter(counter + 1)}>
-                Plus the counter
+                Increase 1
             </button>
             <h4>Counter is: {counter}</h4>
         </div>
