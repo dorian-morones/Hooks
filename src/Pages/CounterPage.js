@@ -5,7 +5,6 @@ import './pages.css'
 
 export default function CounterPage(){
     return (
-
         <div className="Container">
             <div className="row">
                 <h1>W/ Class</h1>
